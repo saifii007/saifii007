@@ -26,9 +26,9 @@
 
 ## 🚀 **My Projects**
 
-🔹 **[Project 1]** – A full-stack Angular & .NET web app ([GitHub Link](#))  
-🔹 **[Project 2]** – React + Node.js e-commerce platform ([GitHub Link](#))  
-🔹 **[Project 3]** – SQL Database Optimization Tool ([GitHub Link](#))  
+🔹 **BLOCKSPOS** – A full-stack Angular & .NET web app  
+🔹 **Clinic System** – Angular +  .NET web app    
+🔹 **Stokify-System** – Angular +  .NET web app  
 
 *(Replace with your actual project links)*
 

@@ -30,16 +30,6 @@
 🔹 **Clinic System** – Angular +  .NET web app    
 🔹 **Stokify-System** – Angular +  .NET web app  
 
-*(Replace with your actual project links)*
-
----
-
-## 📊 **GitHub Stats**
-
-![Saifii007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifii007&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifii007&layout=compact&theme=radical)
-
 ---
 
 ## 📫 **Let's Connect!**

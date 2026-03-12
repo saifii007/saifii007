@@ -1,73 +1,120 @@
 <div align="center">
 
-# Saif Ul Rehman
-**Full-Stack Software Engineer**
+<h1>Saif Ul Rehman</h1>
+<p>Full-Stack Software Engineer &nbsp;·&nbsp; .NET · Angular · React · SQL Server</p>
 
-`.NET` · `ASP.NET Core` · `Angular` · `React` · `SQL Server`
+![](https://img.shields.io/badge/ASP.NET_Core-185FA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/ASP.NET_Web_API-0C447C?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Angular-085041?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/React-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Clean_Architecture-3C3489?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Microservices-534AB7?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Multi--Tenant_SaaS-7F77DD?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/SQL_Server-444441?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-5F5E5A?style=flat-square&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--ul--rehman777-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/saif-ul-rehman777)
-[![GitHub](https://img.shields.io/badge/GitHub-saifii007-181717?style=flat&logo=github)](https://github.com/saifii007)
-[![Email](https://img.shields.io/badge/Email-saifighourii000@gmail.com-EA4335?style=flat&logo=gmail)](mailto:saifighourii000@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--ul--rehman777-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ul-rehman777)
+[![GitHub](https://img.shields.io/badge/GitHub-saifii007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifii007)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saifighourii000@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Professional Summary
 
-Full-stack engineer with **4+ years** of experience building enterprise and SaaS platforms using **.NET, ASP.NET Core, Angular, and React**. Experienced across monolithic and microservices architectures, multi-tenant SaaS design, and high-performance API development. Focused on clean, maintainable systems that scale.
+Full-stack software engineer with **7+ years of experience** developing enterprise and SaaS platforms using **.NET, ASP.NET Core, Angular, and React**. Experienced in designing scalable systems across **monolithic and microservices architectures**, implementing **multi-tenant SaaS solutions**, and building high-performance APIs and data systems. Skilled in translating business requirements into reliable, maintainable, and scalable software.
 
 ---
 
 ## Technical Skills
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | Angular, React, TypeScript, JavaScript, Tailwind CSS |
-| **Backend** | .NET, ASP.NET Core, ASP.NET Web API, ASP.NET Zero |
-| **Data** | SQL Server, MongoDB, Entity Framework Core |
-| **Architecture** | Clean Architecture, Microservices, Multi-Tenant SaaS, REST API Design |
+<table>
+<tr><td><b>Frontend</b></td><td>Angular · React · JavaScript · TypeScript · HTML · CSS · Tailwind CSS</td></tr>
+<tr><td><b>Backend</b></td><td>.NET · ASP.NET Core · ASP.NET Web API · ASP.NET Zero</td></tr>
+<tr><td><b>Databases</b></td><td>SQL Server · MongoDB · Entity Framework Core</td></tr>
+<tr><td><b>Architecture</b></td><td>Clean Architecture · Microservices · Multi-Tenant SaaS · REST API Design · Performance Optimization</td></tr>
+</table>
 
 ---
 
-## Experience
+## Professional Experience
 
 ### Software Engineer — Solvefy
-`Sep 2025 – Present`
 
-Enterprise SaaS platforms and distributed systems using **.NET and Angular**.
+Working on enterprise SaaS platforms and scalable distributed systems using **.NET and Angular**.
 
-**Projects:** NokNok (Microservices) · AutoApply · POS System · Twilio Call Center · PMS Management · AI Interview Assistant
+- Developing enterprise solutions including **PMS Management System**, **Twilio Call Center**, and **AI Interview Assistant**
+- Designing **multi-tenant SaaS architectures** using ASP.NET Zero and Boilerplate frameworks
+- Leading development of **NokNok**, a microservices-based platform using clean architecture
+- Implementing secure API integrations and performance optimization strategies
+
+**Projects:** `NokNok (Microservices)` &nbsp; `AutoApply` &nbsp; `POS System` &nbsp; `Twilio Call Center` &nbsp; `PMS Management` &nbsp; `AI Interview Assistant`
 
 ---
 
 ### Software Engineer — Eratech
-`Oct 2022 – Sep 2025`
 
-Large-scale SaaS POS systems for **US retail and QSR businesses**.
+Developed large-scale SaaS POS systems for **US retail and QSR businesses**.
 
-**Projects:** BLOCKPOS · BLOCK-ECOM · BLOCK-QSR · BLOCK-DailyBook
+- Built **multi-tenant POS systems** using .NET and Angular
+- Designed scalable **multi-database SaaS architectures**
+- Implemented integrations for payment, analytics, and reporting
+- Improved performance for high-volume transaction systems
+
+**Projects:** `BLOCKPOS` &nbsp; `BLOCK-ECOM` &nbsp; `BLOCK-QSR` &nbsp; `BLOCK-DailyBook`
 
 ---
 
 ### Front-End Developer — Sizdom Technologies
-`Nov 2021 – Aug 2022`
 
-Responsive web interfaces using **Angular and React**.
+Developed responsive web interfaces using **Angular and React**.
 
-**Projects:** Blogs Application · Custom UI Designs
+- Built dynamic UI components and responsive layouts
+- Integrated front-end applications with backend APIs
+- Improved UI performance and usability
+
+**Projects:** `Blogs Application` &nbsp; `Custom HTML/CSS UI Designs`
 
 ---
 
 ## Client Projects
 
-| Project | Stack |
-|---|---|
-| **Clinic Management System** | Angular · .NET · SQL Server |
-| **Stock Management System** | Angular · .NET · SQL Server |
+<table>
+<tr>
+  <td width="50%">
+    <b>Clinic Management System</b><br/>
+    <sub>Angular · .NET · SQL Server</sub><br/><br/>
+    Healthcare management system for handling:<br/>
+    • Patient records<br/>
+    • Appointment scheduling<br/>
+    • Billing and medical workflow automation
+  </td>
+  <td width="50%">
+    <b>Stock Management System</b><br/>
+    <sub>Angular · .NET · SQL Server</sub><br/><br/>
+    Inventory and billing system designed for:<br/>
+    • Product management<br/>
+    • Purchase tracking<br/>
+    • Billing and reporting
+  </td>
+</tr>
+</table>
 
 ---
 
 ## Education
 
-**B.Sc. Information Technology (BSIT)** — Punjab University · GPA: 3.30
+<table>
+<tr>
+  <td width="100%"><b>Bachelor of Science in Information Technology (BSIT)</b><br/><sub>Punjab University</sub></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<sub>GitHub is where I share projects, experiments, and architecture patterns related to modern .NET and JavaScript ecosystems.</sub>
+</div>

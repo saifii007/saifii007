@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/saifii007/saifii007/main/banner.png" alt="Saif Ul Rehman - Full Stack Developer" width="100%" />
+</div>
+<div align="center">
 
 <h1>Saif Ul Rehman</h1>
 <p>Full-Stack Software Engineer &nbsp;·&nbsp; .NET · Angular · React · SQL Server</p>

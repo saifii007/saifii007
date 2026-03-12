@@ -1,43 +1,161 @@
-# 👋 Hi, I'm Sair Ul Rehman (Saifii007)
+# Saif Ul Rehman
 
-### **Full-Stack Developer** | **Angular** • **React** • **.NET** • **SQL** • **TypeScript**
+Software Engineer
+ASP.NET • ASP.NET Core • Angular • React • SQL Server
 
-🚀 Passionate about building scalable web applications with modern tech stacks.  
-💡 Open-source enthusiast & problem solver.  
-
----
-
-## 🔧 **Tech Stack**
-
-### **Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Databases**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
+Building scalable **SaaS and enterprise web applications** using modern full-stack technologies.
+Experienced in **Clean Architecture, Microservices, and Multi-Tenant SaaS systems** with a focus on performance, maintainability, and secure API design.
 
 ---
 
-## 🚀 **My Projects**
+## Professional Summary
 
-🔹 **BLOCKSPOS** – A full-stack Angular & .NET web app  
-🔹 **Clinic System** – Angular +  .NET web app    
-🔹 **Stokify-System** – Angular +  .NET web app  
+Full-Stack Software Engineer with **4+ years of experience** developing enterprise and SaaS platforms using **.NET, ASP.NET Core, Angular, and React**.
+Experienced in designing scalable systems across **monolithic and microservices architectures**, implementing **multi-tenant SaaS solutions**, and building high-performance APIs and data systems.
 
----
-
-## 📫 **Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+Skilled in translating business requirements into reliable, maintainable, and scalable software systems.
 
 ---
 
-⭐ **Fun Fact:** I automate boring tasks and love contributing to open source!  
+## Technical Skills
+
+**Frontend**
+
+Angular
+React
+JavaScript
+TypeScript
+HTML
+CSS
+Tailwind CSS
+
+**Backend**
+
+.NET
+ASP.NET Core
+ASP.NET Web API
+ASP.NET Zero
+
+**Databases**
+
+SQL Server
+MongoDB
+Entity Framework Core
+
+**Architecture & Practices**
+
+Clean Architecture
+Microservices Architecture
+Multi-Tenant SaaS Systems
+REST API Design
+System Performance Optimization
+
+---
+
+## Professional Experience
+
+### Software Engineer — Solvefy
+
+Sep 2025 – Present
+
+Working on enterprise SaaS platforms and scalable distributed systems using **.NET and Angular**.
+
+Key contributions:
+
+* Developing enterprise solutions including **PMS Management System**, **Twilio Call Center**, and **AI Interview Assistant**
+* Designing **multi-tenant SaaS architectures** using ASP.NET Zero and Boilerplate frameworks
+* Leading development of **NokNok**, a microservices-based platform using clean architecture
+* Implementing secure API integrations and performance optimization strategies
+
+Projects
+
+* NokNok (Microservices Platform)
+* AutoApply
+* POS System
+* Twilio Call Center
+* PMS Management System
+
+---
+
+### Software Engineer — Eratech
+
+Oct 2022 – Sep 2025
+
+Developed large-scale SaaS POS systems for **US retail and QSR businesses**.
+
+Key contributions:
+
+* Built **multi-tenant POS systems** using .NET and Angular
+* Designed scalable **multi-database SaaS architectures**
+* Implemented integrations for payment, analytics, and reporting
+* Improved performance for high-volume transaction systems
+
+Projects
+
+* BLOCKPOS
+* BLOCK-ECOM
+* BLOCK-QSR
+* BLOCK-DailyBook
+
+---
+
+### Front-End Developer — Sizdom Technologies
+
+Nov 2021 – Aug 2022
+
+Developed responsive web interfaces using **Angular and React**.
+
+Key contributions:
+
+* Built dynamic UI components and responsive layouts
+* Integrated front-end applications with backend APIs
+* Improved UI performance and usability
+
+Projects
+
+* Blogs Application
+* Custom HTML/CSS UI Designs
+
+---
+
+## Client Projects
+
+### Clinic Management System
+
+Angular • .NET • SQL
+
+Healthcare management system for handling:
+
+* Patient records
+* Appointment scheduling
+* Billing and medical workflow automation
+
+### Stock Management System
+
+Angular • .NET • SQL
+
+Inventory and billing system designed for business workflow automation including:
+
+* Product management
+* Purchase tracking
+* Billing and reporting
+
+---
+
+## Education
+
+**Bachelor of Science in Information Technology (BSIT)**
+Punjab University
+CGPA: 3.30
+
+---
+
+## Contact
+
+Email: [saifighourii000@gmail.com](mailto:saifighourii000@gmail.com)
+LinkedIn: https://linkedin.com/in/saif-ul-rehman777
+GitHub: https://github.com/saifii007
+
+---
+
+GitHub is where I share projects, experiments, and architecture patterns related to modern .NET and JavaScript ecosystems.

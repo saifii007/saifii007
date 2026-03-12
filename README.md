@@ -42,7 +42,7 @@ Full-stack software engineer with **7+ years of experience** developing enterpri
 
 ## Professional Experience
 
-### Software Engineer — Solvefy
+### Software Engineer
 
 Working on enterprise SaaS platforms and scalable distributed systems using **.NET and Angular**.
 
@@ -55,7 +55,7 @@ Working on enterprise SaaS platforms and scalable distributed systems using **.N
 
 ---
 
-### Software Engineer — Eratech
+### Software Engineer
 
 Developed large-scale SaaS POS systems for **US retail and QSR businesses**.
 
@@ -68,7 +68,7 @@ Developed large-scale SaaS POS systems for **US retail and QSR businesses**.
 
 ---
 
-### Front-End Developer — Sizdom Technologies
+### Front-End Developer
 
 Developed responsive web interfaces using **Angular and React**.
 

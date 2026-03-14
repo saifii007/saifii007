@@ -18,7 +18,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--ul--rehman777-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ul-rehman777)
+
 [![GitHub](https://img.shields.io/badge/GitHub-saifii007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifii007)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saifighourii000@gmail.com)
 

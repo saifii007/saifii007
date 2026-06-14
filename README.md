@@ -28,7 +28,7 @@
 
 ## Professional Summary
 
-Full-stack software engineer with **7+ years of experience** developing enterprise and SaaS platforms using **.NET, ASP.NET Core, Angular, and React**. Experienced in designing scalable systems across **monolithic and microservices architectures**, implementing **multi-tenant SaaS solutions**, and building high-performance APIs and data systems. Skilled in translating business requirements into reliable, maintainable, and scalable software.
+Full-stack software engineer with **5+ years of experience** developing enterprise and SaaS platforms using **.NET, ASP.NET Core, Angular, and React**. Experienced in designing scalable systems across **monolithic and microservices architectures**, implementing **multi-tenant SaaS solutions**, and building high-performance APIs and data systems. Skilled in translating business requirements into reliable, maintainable, and scalable software.
 
 ---
 
